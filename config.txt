@@ -1,6 +1,6 @@
-token=NTI2MjA0NzIwMjE0MzEwOTI1.Dy1Rfw.yO0pJuZpVci-4pxXNc2ZOG7sbzg
-owner=476188949291991060 
-prefix=/
-game=TheShadowzMusic
+token=NTM5NDk5NzAyODkxMTg0MTMy.DzDQRQ.-4J8YvMTHjZTKTLLisaLCjF4zUg
+owner=462010454093594626
+prefix=2n
+game=NU-02BOT
 stayinchannel=true
 songinstatus=false
